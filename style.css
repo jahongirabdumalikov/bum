@@ -1,0 +1,38 @@
+.btn {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#colorDiv {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: background-color 0.5s;
+}
+#result {
+    font-size: 24px;
+    margin: 20px;
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+}
